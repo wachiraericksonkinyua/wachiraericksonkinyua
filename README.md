@@ -28,8 +28,7 @@
 
   <br/>
 
-  <!-- YOUR GITHUB STATS & TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api?username=wachiraericksonkinyua&show_icons=true&theme=radical&hide_border=true" alt="Erickson's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wachiraericksonkinyua&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-
+<!-- YOUR GITHUB STATS & TOP LANGUAGES -->
+  <img src="https://github-readme-stats.vercel.app/api?username=wachiraericksonkinyua&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Erickson's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wachiraericksonkinyua&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" height="165" />
 </div>
