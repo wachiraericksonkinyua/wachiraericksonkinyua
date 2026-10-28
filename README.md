@@ -22,8 +22,8 @@
 
 <div align="center">
 
-  <!-- YOUR LIVE STREAK TRACKER -->
-  <img src="https://streak-stats.demolab.com?user=wachiraericksonkinyua&theme=radical&hide_border=true&timezone=Africa%2FNairobi" alt="Erickson's GitHub Streak" />
+ <!-- YOUR LIVE STREAK TRACKER -->
+  <img src="https://streak-stats.demolab.com?user=wachiraericksonkinyua&theme=radical&hide_border=true&timezone=Africa%2FNairobi&v=1" alt="Erickson's GitHub Streak" />
 
   <br/>
 
