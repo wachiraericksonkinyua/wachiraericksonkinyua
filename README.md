@@ -22,12 +22,13 @@
 
 <div align="center">
 
- <!-- YOUR LIVE STREAK TRACKER -->
-  <img src="https://streak-stats.demolab.com?user=wachiraericksonkinyua&theme=radical&hide_border=true&timezone=Africa%2FNairobi&v=1" alt="Erickson's GitHub Streak" />
+  <!-- LIVE STREAK TRACKER -->
+  <img src="https://streak-stats.demolab.com?user=wachiraericksonkinyua&theme=radical&hide_border=true&timezone=Africa%2FNairobi&v=2" alt="Erickson's GitHub Streak" />
 
   <br/>
 
-  <!-- YOUR GITHUB STATS & TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api?username=wachiraericksonkinyua&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="Erickson's GitHub Stats" height="165" />
+  <!-- GITHUB STATS & TOP LANGUAGES -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=wachiraericksonkinyua&show_icons=true& theme=radical&hide_border=true" alt="Erickson's GitHub Stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wachiraericksonkinyua&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" height="165" />
+
 </div>
