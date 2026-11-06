@@ -1,5 +1,4 @@
 # Hi there, I'm Erickson Wachira 👋
-# Hi there, I'm Erickson Wachira 👋
 
 **Full-Stack Developer & AI Engineer** building fast, scalable backends, cross-platform apps, and autonomous AI workflows. I am also deeply passionate about **AI Security & Red Teaming**—making sure modern LLM applications are resilient and secure.
 
