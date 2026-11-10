@@ -3,7 +3,7 @@ A min for your attention.
 
 **Full-Stack Developer & AI Engineer** building fast, scalable backends, cross-platform apps, and autonomous AI workflows. I am also deeply passionate about **AI Security & Red Teaming**—making sure modern LLM applications are resilient and secure.
 
-- 🚀 **Full-Stack Core:** Python, FastAPI, Vue.js, Flet, PostgreSQL, Supabase & SQLAlchemy
+- 🚀 **Full-Stack Core:** Python, FastAPI, React.js, Flet, PostgreSQL, Supabase & SQLAlchemy
 - 🤖 **AI Engineering:** Generative AI, Agentic AI Workflows & LLM Integration
 - 🛡️ **Security Focus:** AI Red Teaming, Prompt Injection Defense & Automated Security Testing (PyRIT)
 - 📫 **Reach me directly:** [ericksonkinyua681@gmail.com](mailto:ericksonkinyua681@gmail.com)
